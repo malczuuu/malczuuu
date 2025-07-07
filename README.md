@@ -4,11 +4,12 @@ I'm a backend developer who mostly works with Java and Spring Boot. I like build
 
 Not really into flashy stuff — just trying to build things that work well and are easy to maintain. I spend most of my time in IntelliJ, Docker, and terminals.
 
-## What I use a lot in mt free time
+## What I use a lot
 
 - Java, Spring Boot
 - MongoDB, PostgreSQL
 - Git, Docker
+- _A pinch of Golang_
 
 ---
 
