@@ -27,11 +27,7 @@ I'm using this `README.md` to store links to repositories and tools frequently u
 
 ## Docker Compose Prototypes
 
-- [**`keycloak-compose`**](https://github.com/malczuuu/keycloak-compose): Keycloak, MariaDB, PhpMyAdmin and Mailpit.
-- [**`mongo-compose`**](https://github.com/malczuuu/mongo-compose)
-- [**`portainer-compose`**](https://github.com/malczuuu/portainer-compose)
-- [**`rabbitmq-compose`**](https://github.com/malczuuu/rabbitmq-compose)
-- [**`traefik-compose`**](https://github.com/malczuuu/traefik-compose): Traefik with routing to 2 Echo Servers.
+- [**`composes`**](https://github.com/malczuuu/composes)
 
 ## Gists
 
