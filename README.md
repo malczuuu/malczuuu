@@ -1,5 +1,22 @@
 # 👋 Hi, I'm Damian
 
+I'm a backend developer who mostly works with Java and Spring Boot. I like building solid APIs, writing clean code, and automating things that shouldn’t be manual.
+
+Not really into flashy stuff — just trying to build things that work well and are easy to maintain. I spend most of my time in IntelliJ, Docker, and terminals.
+
+## What I use a lot in mt free time
+
+- Java, Spring Boot
+- MongoDB, PostgreSQL
+- Git, Docker
+
+---
+
+<details>
+<summary><b>Read more...</b></summary>
+
+---
+
 I'm using this `README.md` to store links to repositories and tools frequently used in personal projects. For summary of my GitHub projects please visit https://malczuuu.github.io/.
 
 ## Libraries
@@ -18,3 +35,4 @@ I'm using this `README.md` to store links to repositories and tools frequently u
 ## Gists
 
 - [How to Add Unstaged Changes to an Older Commit](https://gist.github.com/malczuuu/25c0719ff685b3b803f8d234201a3f7f)
+</details>
