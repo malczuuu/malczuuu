@@ -9,7 +9,7 @@ Not really into flashy stuff — just trying to build things that work well and 
 - Java, Spring Boot
 - MongoDB, PostgreSQL
 - Git, Docker
-- _A pinch of Golang_
+- A _pinch_ of Golang
 
 ---
 
