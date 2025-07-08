@@ -18,7 +18,7 @@ Not really into flashy stuff — just trying to build things that work well and 
 
 ---
 
-I'm using this `README.md` to store links to repositories and tools frequently used in personal projects. For summary of my GitHub projects please visit https://malczuuu.github.io/.
+I'll be using this section to store links to repositories and tools frequently used in personal projects. For summary of my GitHub projects please visit https://malczuuu.github.io/.
 
 ## Libraries
 
