@@ -3,23 +3,24 @@
 I'm a backend developer who mostly works with Java and Spring Boot. I like building solid APIs, writing clean code, and
 automating things that shouldn’t be manual.
 
-Not really into flashy stuff — just trying to build things that work well and are easy to maintain. I spend most of my
-time in IntelliJ, Docker, and terminals.
+Not really into flashy stuff - just trying to build things that work well and are easy to maintain. I spend most of my
+time with IntelliJ, Docker, and terminals. Huge fan of automation, Github Actions / Gitlab CI enjoyer.
 
 ## What I use a lot
 
 - Java, Spring Boot
 - MongoDB, PostgreSQL
-- Git, Docker
-- A _pinch_ of Golang
+- Docker
+- A _pinch_ of Golang, Python and Kotlin
 
 ## Notable Projects
 
 Here's a list of projects that I'm the most proud of. Not a huge one, but perhaps it will eventually grow 😊.
 
-- **Problem4J**: [RFC 7807 - Problem Details for HTTP APIs][rfc7807] in Java, available on `maven-central`.
+- **Problem4J**: [RFC 7807 - Problem Details for HTTP APIs][rfc7807] in Java.
     - [**`problem4j-spring`**][problem4j-spring]: Spring Boot integration for `Problem` model.
-    - [**`problem4j-jackson`**][problem4j-jackson]: Jackson (`ObjectMapper`) integration for `Problem` model.
+    - [**`problem4j-jackson`**][problem4j-jackson]: Jackson `2.x` and `3.x` (`ObjectMapper`) integration for `Problem`
+      model.
     - [**`problem4j-core`**][problem4j-core]: Plain `Problem` model for Java.
 
 ---
@@ -37,7 +38,7 @@ Here (and on https://malczuuu.github.io/) are some projects that are not very pr
   a few custom jakarta-style annotations and validators. Project was created as a way to learn about publishing to
   `maven-central` so I'm not certain about its future yet.
 - [**`pytemple`**](https://github.com/malczuuu/pytemple): Python library for simple formatted text generation based on
-  template.
+  template. Created as a way to learn about using git repositories as PIP dependencies. 
 
 ## Docker Compose Prototypes
 
