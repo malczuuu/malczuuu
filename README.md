@@ -1,17 +1,33 @@
 # 👋 Hi, I'm Damian
 
-I'm a backend developer who mostly works with Java and Spring Boot. I like building solid APIs, writing clean code, and
-automating things that shouldn’t be manual.
+[![Java](https://img.shields.io/badge/Java-437291?logo=openjdk&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](#)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
-Not really into flashy stuff - just trying to build things that work well and are easy to maintain. I spend most of my
-time with IntelliJ, Docker, and terminals. Huge fan of automation, Github Actions / Gitlab CI enjoyer.
+I'm a backend engineer focused on building reliable, maintainable systems. Most of my work revolves around **Java**,
+**Spring Boot**, and designing APIs that are easy to use and hard to break.
 
-## What I use a lot
+I enjoy making things run smoothly - from automating CI/CD pipelines to tuning services and cleaning up codebases. Day
+to day, you’ll usually find me in **IntelliJ**, a terminal, or inside a Docker container.
+
+## 🛠️ Core technologies
 
 - Java, Spring Boot
 - MongoDB, PostgreSQL
 - Docker
-- A _pinch_ of Golang, Python and Kotlin
+- Occasionally: Go, Python, Kotlin
 
 ## Notable Projects
 
@@ -38,7 +54,7 @@ Here (and on https://malczuuu.github.io/) are some projects that are not very pr
   a few custom jakarta-style annotations and validators. Project was created as a way to learn about publishing to
   `maven-central` so I'm not certain about its future yet.
 - [**`pytemple`**](https://github.com/malczuuu/pytemple): Python library for simple formatted text generation based on
-  template. Created as a way to learn about using git repositories as PIP dependencies. 
+  template. Created as a way to learn about using git repositories as PIP dependencies.
 
 ## Docker Compose Prototypes
 
