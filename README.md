@@ -46,7 +46,7 @@ Here's a list of projects that I'm the most proud of. Not a huge one, but perhap
 
 ---
 
-Here (and on https://malczuuu.github.io/) are some projects that are not very presentable yet. Perhaps one day 😅.
+Here are some projects that are not very presentable yet. Perhaps one day 😅.
 
 ## Libraries
 
