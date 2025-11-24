@@ -33,11 +33,11 @@ to day, you’ll usually find me in **IntelliJ**, a terminal, or inside a Docker
 
 Here's a list of projects that I'm the most proud of. Not a huge one, but perhaps it will eventually grow 😊.
 
-- **Problem4J**: [RFC 7807 - Problem Details for HTTP APIs][rfc7807] in Java.
-    - [**`problem4j-spring`**][problem4j-spring]: Spring Boot integration for `Problem` model.
-    - [**`problem4j-jackson`**][problem4j-jackson]: Jackson `2.x` and `3.x` (`ObjectMapper`) integration for `Problem`
-      model.
-    - [**`problem4j-core`**][problem4j-core]: Plain `Problem` model for Java.
+- **Problem4J**: [RFC 7807 - Problem Details for HTTP APIs][rfc7807] model for Java and related frameworks.
+    - [**`problem4j-core`**][problem4j-core]: plain `Problem` model for Java.
+    - [**`problem4j-jackson`**][problem4j-jackson]: integration of `Problem` model with **Jackson** `v2` and `v3`
+      (`ObjectMapper`).
+    - [**`problem4j-spring`**][problem4j-spring]: integration of `Problem` model with **Spring Boot** `v3` and `v4`.
 
 ---
 
