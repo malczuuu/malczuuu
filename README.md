@@ -33,7 +33,7 @@ to day, you’ll usually find me in **IntelliJ**, a terminal, or inside a Docker
 
 Here's a list of projects that I'm the most proud of. Not a huge one, but perhaps it will eventually grow 😊.
 
-- **Problem4J**: [RFC 7807 - Problem Details for HTTP APIs][rfc7807] model for Java and related frameworks.
+- [**Problem4J**][problem4j]: [RFC 7807 - Problem Details for HTTP APIs][rfc7807] for Java and familiar frameworks.
     - [**`problem4j-core`**][problem4j-core]: plain `Problem` model for Java.
     - [**`problem4j-jackson`**][problem4j-jackson]: integration of `Problem` model with **Jackson** `v2` and `v3`
       (`ObjectMapper`).
@@ -47,6 +47,11 @@ Here's a list of projects that I'm the most proud of. Not a huge one, but perhap
 ---
 
 Here are some projects that are not very presentable yet. Perhaps one day 😅.
+
+## Tools
+
+- [**iEmu**](https://github.com/malczuuu/iemu): A simple emulator application for an IoT device working with LwM2M
+  protocol.
 
 ## Libraries
 
@@ -66,10 +71,12 @@ Here are some projects that are not very presentable yet. Perhaps one day 😅.
 
 </details>
 
-[problem4j-core]: https://github.com/malczuuu/problem4j-core
+[problem4j]: https://problem4j.github.io
 
-[problem4j-jackson]: https://github.com/malczuuu/problem4j-jackson
+[problem4j-core]: https://github.com/problem4j/problem4j-core
 
-[problem4j-spring]: https://github.com/malczuuu/problem4j-spring
+[problem4j-jackson]: https://github.com/problem4j/problem4j-jackson
+
+[problem4j-spring]: https://github.com/problem4j/problem4j-spring
 
 [rfc7807]: https://datatracker.ietf.org/doc/html/rfc7807
