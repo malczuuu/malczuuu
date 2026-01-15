@@ -33,7 +33,8 @@ to day, you’ll usually find me in **IntelliJ**, a terminal, or inside a Docker
 
 Here's a list of projects that I'm the most proud of. Not a huge one, but perhaps it will eventually grow 😊.
 
-- [**Problem4J**][problem4j]: [RFC 7807 - Problem Details for HTTP APIs][rfc7807] for Java and familiar frameworks.
+- [**Problem4J**][problem4j]: a modest effort to introduce [RFC 7807 - Problem Details for HTTP APIs][rfc7807] to Java
+  and familiar frameworks.
     - [**`problem4j-core`**][problem4j-core]: plain `Problem` model for Java.
     - [**`problem4j-jackson`**][problem4j-jackson]: integration of `Problem` model with **Jackson** `v2` and `v3`
       (`ObjectMapper`).
